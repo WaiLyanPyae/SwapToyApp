@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">TGA</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="btnLogin">login</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="signInPrompt">Not Yet Registered? Sign Up Now!!</string>
+    <string name="email">Email</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login_prompt">Have An Account? Log In!!</string>
+    <string name="moreDetails">Add Your Details</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="Continue">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="imageButton">Enter Image</string>
+    <string name="userImageDescription">Profile Image</string>
+    <string name="img">Profile Picture</string>
+    <string name="home">HOME</string>
+    <string name="profile">PROFILE</string>
+    <string name="listings">LISTINGS</string>
+    <string name="chat">CHAT</string>
+    <string name="other">OTHER</string>
+    <string name="user_name">USER NAME</string>
+    <string name="open">Open Drawer</string>
+    <string name="close">Close Drawer</string>
+    <string name="resetPassword">Forgot Password?</string>
+    <string name="prodName">Title</string>
+    <string name="prodCategory">Category</string>
+    <string name="prodCondition">Condition</string>
+    <string name="prodDescription">Description</string>
+    <string name="next">next</string>
+    <string name="prev">prev</string>
+    <string name="user_email">user.email@yahoo.com</string>
+    <string name="user_phone">0989878767</string>
+    <string name="view_listing">My Listings</string>
+    <string name="prodDistance">4.56 meters away</string>
+    <string name="productId" > Product</string>
+    <string name="priceId">Price</string>
+    <string name="logout">LOGOUT</string>
+
+    <style name="itemTextStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/black</item>
+        <item name="boxStrokeWidth">3dp</item>
+    </style>
+
+    <style name="itemOutlineStyle" parent="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="boxStrokeColor">@color/black</item>
+        <item name="boxStrokeWidth">3dp</item>
+    </style>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

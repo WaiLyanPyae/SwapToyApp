@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tensorflow:tensorflow-lite-task-vision-play-services:0.4.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1a74aa1dfe6a8913f52e09dfbe72b1ad/transformed/tensorflow-lite-task-vision-play-services-0.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1a74aa1dfe6a8913f52e09dfbe72b1ad/transformed/tensorflow-lite-task-vision-play-services-0.4.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.toy.barterx">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BarterX"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity android:name="com.toy.barterx.ForgotPasswordActivity">
+
+        </activity>
+
+        <activity
+            android:name="com.toy.barterx.ListingView"
+            android:exported="false" />
+        <activity
+            android:name="com.toy.barterx.Menu"
+            android:exported="false" />
+        <activity android:name="com.toy.barterx.EditProfile">
+
+        </activity>
+
+        <activity
+            android:name="com.toy.barterx.activity_profile"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name="com.toy.barterx.Listings"
+            android:exported="false" />
+        <activity
+            android:name="com.toy.barterx.MessagingHomeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.toy.barterx.ChatActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.toy.barterx.UserRegistrationPart3"
+            android:exported="false" />
+        <activity
+            android:name="com.toy.barterx.UserRegistrationStep2"
+            android:exported="false" />
+        <activity
+            android:name="com.toy.barterx.SignUp"
+            android:exported="false" />
+        <activity android:name="com.toy.barterx.VerificationActivity"/>
+
+        <activity
+            android:name="com.toy.barterx.Login"
+            android:exported="false" />
+        <activity
+            android:name="com.toy.barterx.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

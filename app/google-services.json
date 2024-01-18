@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "490602817139",
+    "firebase_url": "https://toysgiveaway-9e2a0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "toysgiveaway-9e2a0",
+    "storage_bucket": "toysgiveaway-9e2a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490602817139:android:e91904b66f8b4ed5e0ac06",
+        "android_client_info": {
+          "package_name": "com.example.barterx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490602817139-sjdve2qpd10tl2i74v51gmcpqepjl272.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKX1gHiMrHtC5eQDbvwyvZvgBN_6ZmFho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490602817139-sjdve2qpd10tl2i74v51gmcpqepjl272.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490602817139:android:820856efe472d66ae0ac06",
+        "android_client_info": {
+          "package_name": "com.toy.barterx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490602817139-sjdve2qpd10tl2i74v51gmcpqepjl272.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKX1gHiMrHtC5eQDbvwyvZvgBN_6ZmFho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490602817139-sjdve2qpd10tl2i74v51gmcpqepjl272.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

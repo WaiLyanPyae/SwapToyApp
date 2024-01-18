@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Sketch/Documents/BarterX/app/src/main/res/drawable/design.xml" value="0.184" />
+        <entry key="..\:/Users/Sketch/Documents/BarterX/app/src/main/res/drawable/edittext.xml" value="0.1815" />
+        <entry key="..\:/Users/Sketch/Documents/BarterX/app/src/main/res/layout/activity_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Sketch/Documents/BarterX/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Sketch/Documents/BarterX/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/Sketch/Documents/BarterX/app/src/main/res/layout/activity_user_registration_part3.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Sketch/Documents/BarterX/app/src/main/res/layout/activity_user_registration_step2.xml" value="0.22" />
+<<<<<<< HEAD
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/layout/activity_chat.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/layout/activity_dashboard.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/layout/activity_drawer_base.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/layout/activity_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/layout/activity_listings.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/layout/activity_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/layout/activity_user_profile.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/layout/app_bar_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/layout/content_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/layout/content_layout.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/layout/main_drawer_header.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/menu/activity_main_drawer.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/menu/home.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/Sketch/Videos/BarterX_Mobile_Application/app/src/main/res/menu/main_drawer_menu.xml" value="0.17552083333333332" />
+=======
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.33" />
+>>>>>>> 28fb5ae (chat module)
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_menu.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/layout/activity_messaging_home.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/activity_user_registration_part3.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/activity_user_registration_step2.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/message_row.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/message_screen.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/user_row.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
